@@ -1,0 +1,1 @@
+thias is first line in file1
